@@ -1,0 +1,13 @@
+{
+	"name": "foospark",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"scalameta.metals"
+			]
+		}
+	}
+}
